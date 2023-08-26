@@ -1,1 +1,1 @@
-# security-audit-part-2
+In part two of this security audit, I communicate the security audit results and recommendations to stakeholders. I'm including this completed stakeholder memorandum in my portfolio to demonstrate my ability to communicate in a way that supports stakeholder understanding of complex concepts. 
