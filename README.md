@@ -10,3 +10,4 @@ Your task is to clearly and concisely communicate your findings and recommendati
 
 ## Step 1 - Access supporting materials
 
+[Botium Toys: Audit scope and goals](https://github.com/cloudquiza/security-audit-part-2/blob/main/Botium%20Toys_%20Audit%20scope%20and%20goals.pdf)
