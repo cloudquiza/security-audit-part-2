@@ -11,3 +11,21 @@ Your task is to clearly and concisely communicate your findings and recommendati
 ## Step 1 - Access supporting materials
 
 [Botium Toys: Audit scope and goals](https://github.com/cloudquiza/security-audit-part-2/blob/main/Botium%20Toys_%20Audit%20scope%20and%20goals.pdf)
+
+## Step 2 - Analyze audit results
+
+<details>
+<summary>Review the controls assessment and compliance checklist you completed in part 1 of the secuirty audit</summary>
+<br>
+Consider the following, before moving on to Step 3:
+
+- What were the audit scope and goals? 
+
+- What were the critical findings of the audit that need to be addressed immediately (i.e., What controls and/or policies need to be implemented immediately)?
+
+- What were the findings (i.e., What controls and/or policies that need to be addressed in the future)?
+
+- How can you summarize your recommendations clearly and concisely to stakeholders?
+</details>
+
+---
