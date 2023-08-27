@@ -15,9 +15,8 @@ Your task is to clearly and concisely communicate your findings and recommendati
 ## Step 2 - Analyze audit results
 
 <details>
-<summary>Review the controls assessment and compliance checklist you completed in part 1 of the secuirty audit</summary>
+<summary>Review the controls assessment and compliance checklist you completed in part 1 of the secuirty audit. Consider the following, before moving on to Step 3:</summary>
 <br>
-Consider the following, before moving on to Step 3:
 
 - What were the audit scope and goals? 
 
@@ -28,4 +27,6 @@ Consider the following, before moving on to Step 3:
 - How can you summarize your recommendations clearly and concisely to stakeholders?
 </details>
 
----
+## Step 3 - Communicate results and recommendations
+
+Consider your responses to the questions in step 2, and refer to your completed controls assessment and compliance checklist. Then, communicate your findings and recommendations to stakeholders.
