@@ -30,3 +30,17 @@ Your task is to clearly and concisely communicate your findings and recommendati
 ## Step 3 - Communicate results and recommendations
 
 Consider your responses to the questions in step 2, and refer to your completed controls assessment and compliance checklist. Then, communicate your findings and recommendations to stakeholders.
+
+[Stakeholder memorandum]()
+
+Step 4: Assess your activity
+
+- I clearly and concisely communicated the internal audit scope to stakeholders. ✅
+
+- I clearly and concisely communicated the internal audit goals to stakeholders. ✅
+
+- I clearly and concisely communicated the critical findings to stakeholders. ✅
+  
+- I clearly and concisely communicated other, non-critical findings to stakeholders. ✅
+  
+- I clearly and concisely communicated a summary and recommendations to stakeholders. ✅
