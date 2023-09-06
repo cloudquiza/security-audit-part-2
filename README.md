@@ -31,7 +31,7 @@ Your task is to clearly and concisely communicate your findings and recommendati
 
 Consider your responses to the questions in step 2, and refer to your completed controls assessment and compliance checklist. Then, communicate your findings and recommendations to stakeholders.
 
-[Stakeholder memorandum]()
+[Stakeholder memorandum](https://github.com/cloudquiza/security-audit-part-2/blob/main/Stakeholder%20memorandum%20exemplar.pdf)
 
 Step 4: Assess your activity
 
